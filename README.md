@@ -4,4 +4,5 @@
 Repository for all non-technical stuffs including: Wiki, Whitepaper, Documentation...
 
 💝 Donations are always appreciated!
-**ETH:** 0x8a6d21599e2a02267917e4282E8c7e621f74798C
+**ETH**: 0x2b257f4120b2A6CFfBDB77678e7C173b94E89bcB
+**BTC:** 17kxpB2yWrQWMiC8v68DaKDqFXb1pbqU6u
